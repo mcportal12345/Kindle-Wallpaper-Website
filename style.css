@@ -12,3 +12,9 @@ h1 {
 p {
   color: #FF2B00;
 }
+
+img {
+  width: 300px;
+  height: auto;
+  margin: 20px; 
+}
