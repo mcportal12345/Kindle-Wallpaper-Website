@@ -9,11 +9,19 @@ body {
 /* Styling for h1 size headings*/
 h1 {
   color: #FF2B00;
+  border: 10px double;
+  position: center;
+  padding: 10px;
+  border-radius: 30px;
 }
 
 /* Styling for paragraphs */
 p {
   color: #FF2B00;
+  border: 10px double;
+  position: center;
+  padding: 10px;
+  border-radius: 30px;
 }
 
 /* Styling for image */
@@ -25,4 +33,8 @@ img {
 
 h3 {
   color: #FF2B00;
+  border: 10px double;
+  position: center;
+  padding: 10px;
+  border-radius: 30px;
 }
